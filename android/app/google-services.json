@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "390282068997",
+    "project_id": "neoai-77992",
+    "storage_bucket": "neoai-77992.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390282068997:android:e37cf8b447c01a1aa8486c",
+        "android_client_info": {
+          "package_name": "app.lovable.neo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_MEeBQcaBD_kEuhla7yWwGR4xAaV4CZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390282068997:android:75ba7080bc225d5ba8486c",
+        "android_client_info": {
+          "package_name": "com.NEOAI.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_MEeBQcaBD_kEuhla7yWwGR4xAaV4CZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390282068997:android:f059edf5094baed9a8486c",
+        "android_client_info": {
+          "package_name": "neomart.space"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_MEeBQcaBD_kEuhla7yWwGR4xAaV4CZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
